@@ -1,0 +1,10 @@
+127.0.0.1   localhost localhost.localdomain localhost4
+localhost4.localdomain4 www.web-01.example.com
+127.0.0.2   localhost localhost.localdomain localhost4
+localhost4.localdomain4 www.web-02.example.com
+127.0.0.3   localhost localhost.localdomain localhost4
+localhost4.localdomain4 www.web-03.example.com
+127.0.0.4   localhost localhost.localdomain localhost4
+localhost4.localdomain4 www.web-04.example.com
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.100.12 proxy
